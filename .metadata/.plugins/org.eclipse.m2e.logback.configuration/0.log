@@ -1,0 +1,37 @@
+2021-05-19 16:47:54,514 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-19 16:50:33,210 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-19 16:50:34,204 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.bbva.qwai:LIBRARIES-codelab:0.0.0 @ C:\apx\workspace\QWAI\codelab\artifact\libraries\pom.xml.
+2021-05-19 16:50:35,206 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/junit/junit/4.8.2/junit-4.8.2.pom
+2021-05-19 16:50:35,337 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/junit/junit/4.8.2/junit-4.8.2.pom
+2021-05-19 16:50:35,468 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/log4j/log4j/1.2.16/log4j-1.2.16.pom
+2021-05-19 16:50:35,552 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/log4j/log4j/1.2.16/log4j-1.2.16.pom
+2021-05-19 16:50:35,654 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.pom
+2021-05-19 16:50:35,738 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.pom
+2021-05-19 16:50:35,825 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-parent/1.6.1/slf4j-parent-1.6.1.pom
+2021-05-19 16:50:35,901 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-parent/1.6.1/slf4j-parent-1.6.1.pom
+2021-05-19 16:50:35,982 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.pom
+2021-05-19 16:50:36,055 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.pom
+2021-05-19 16:50:36,138 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/jul-to-slf4j/1.6.1/jul-to-slf4j-1.6.1.pom
+2021-05-19 16:50:36,211 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/jul-to-slf4j/1.6.1/jul-to-slf4j-1.6.1.pom
+2021-05-19 16:50:36,316 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.pom
+2021-05-19 16:50:36,391 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.pom
+2021-05-19 16:50:36,534 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/junit/junit/4.8.2/junit-4.8.2.jar
+2021-05-19 16:50:37,022 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/junit/junit/4.8.2/junit-4.8.2.jar
+2021-05-19 16:50:37,093 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2021-05-19 16:50:37,677 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2021-05-19 16:50:37,750 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.jar
+2021-05-19 16:50:37,831 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.jar
+2021-05-19 16:50:37,898 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/jul-to-slf4j/1.6.1/jul-to-slf4j-1.6.1.jar
+2021-05-19 16:50:37,973 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/jul-to-slf4j/1.6.1/jul-to-slf4j-1.6.1.jar
+2021-05-19 16:50:38,054 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar
+2021-05-19 16:50:38,129 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar
+2021-05-19 16:50:38,199 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar
+2021-05-19 16:50:38,317 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx-dev/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar
+2021-05-19 16:50:40,581 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2021-05-19 16:50:40,583 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-19 16:50:41,089 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.bbva.qwai:DTOS-codelab:0.0.0 @ C:\apx\workspace\QWAI\codelab\artifact\dtos\pom.xml.
+2021-05-19 16:50:41,163 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.bbva.qwai:codelab:0.0.0 @ C:\apx\workspace\QWAI\codelab\pom.xml.
+2021-05-19 16:50:41,183 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.bbva.qwai:TRANSACTIONS-codelab:0.0.0 @ C:\apx\workspace\QWAI\codelab\artifact\transactions\pom.xml.
+2021-05-19 16:50:41,201 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.bbva.qwai:LIBRARIES-codelab:0.0.0 @ C:\apx\workspace\QWAI\codelab\artifact\libraries\pom.xml.
+2021-05-19 16:50:41,709 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-05-19 16:51:06,284 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
